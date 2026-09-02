@@ -8,3 +8,5 @@ public class User {
         this.name = name;
         this.email = email;
     }
+x=10
+y=20
