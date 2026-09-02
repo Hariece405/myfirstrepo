@@ -16,3 +16,6 @@ public class EvenOddCheck {
         scanner.close();
     }
 }
+x=10
+    y=30
+    z=x+y
